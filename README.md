@@ -15,7 +15,7 @@ On this project I've used python as programming language; jupyterlab as notebook
 ### **Data Cleaning and Preprocessing**
 On this section, there are few processes such as handling missing and duplicated value, feature selection using RFMLC (Recency, Frequency, Monetary, Loyalty and C) methods, handling outliers using IQR (Q1=1%; Q3=99%), feature transformation to selected features using minmaxscaler, and splitting data on 70:30 proportion.
 ### **Data Modeling**
-Using K-Means Clustering with cross-validation elbow method to inertia and silhoutte score
+Using K-Means Clustering with cross-validation elbow method to inertia and silhoutte score. Also there is usage of Principal Component Analysis (PCA) to reduce dimensionality.
 ### **Customer Persoality Analysis for Marketing Retargeting**
 Based on my model, there are 4 customer clusters:
 1. High-Valued Customer:
