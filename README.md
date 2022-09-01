@@ -5,7 +5,7 @@ Company need to know it's customer behavior to boost marketing campaign.
 ### Goal
 Improve marketing campaign performance and target the right customers to be able to do transaction(s) on the company's platform.
 ### Objective 
-Create a cluster prediction model so that it makes easier for companies to make decisions.
+Create a cluster prediction model using unsupervised learning so that it makes easier for companies to make decisions.
 ## Data
 Dataset contains customer behavior features who made transactions and interactions on our platform.
 ## Tools
