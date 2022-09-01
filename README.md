@@ -1,4 +1,4 @@
-# Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
+# Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning
 ## Background
 A company can develop rapidly when it knows the behavior of its customer personality, so that it can provide better services and benefits to customers who have the potential to become loyal customers.
 Company need to know it's customer behavior to boost marketing campaign.
