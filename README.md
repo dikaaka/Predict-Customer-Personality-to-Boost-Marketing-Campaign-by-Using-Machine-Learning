@@ -7,7 +7,7 @@ Improve marketing campaign performance and target the right customers to be able
 ### Objective 
 Create a cluster prediction model so that it makes easier for companies to make decisions.
 ## Data
-The dataset contains 2.240 data rows and 30 customer behavior and characteristic features who do transaction(s) on comapny's platform.
+Dataset contains customer behavior features who made transactions and interactions on our platform.
 ## Tools
 On this project I've used python as programming language; jupyterlab as notebook; pandas, numpy, sklearn and dython to preprocessing and machine learning section; combination of matplotlib and seaborn library to generated data visualization.
 ## Contents
